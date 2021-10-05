@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Yana Tseva](https://up.htmlacademy.ru/javascript/24/user/1844425).
-* Наставник: `Павел Бубликов`.
+* Наставник: [Павел Бубликов](https://htmlacademy.ru/profile/pbuba).
 
 ---
 
